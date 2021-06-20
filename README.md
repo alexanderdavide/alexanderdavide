@@ -6,3 +6,5 @@
 
 :notes: Apart from Software Development, I am interested in music and fashion.
 
+![Alexander Eble's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexanderdavide&theme=react&count_private=true&show_icons=true)
+
