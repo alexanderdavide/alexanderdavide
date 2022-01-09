@@ -1,6 +1,6 @@
 ### Hey, my name is Alex! :wave:
 
-:computer: I am Innovation Engineer at [artiso solutions](https://www.artiso.com) and avocational Freelance JavaScript Full-Stack Engineer. Need support? [Contact me](https://alex-eble.de/en/contact) anytime.
+:computer: I am Innovation Engineer at [artiso solutions](https://www.artiso.com) and [Freelance JavaScript Engineer](https://www.alex-eble.de). Need support? [Contact me](https://alex-eble.de/#kontakt) anytime.
 
 :notes: Apart from Software Engineering, I am passionate about music and fashion.
 
