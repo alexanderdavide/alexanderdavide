@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/users/9378384/alexanderdavide">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/9378384?label=user:9378384&logo=stackoverflow&logoColor=orange&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/9378384?label=alexanderdavide&logo=stackoverflow&logoColor=orange&style=for-the-badge&color=blue" />
   </a>
   <a href="http://github.com/alexanderdavide">
     <img src="https://img.shields.io/github/followers/alexanderdavide?label=@alexanderdavide&logo=GitHub&style=for-the-badge" />
