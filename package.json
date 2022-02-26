@@ -1,0 +1,31 @@
+{
+  "name": "alexanderdavide",
+  "version": "1.0.0",
+  "description": "@alexanderdavide GitHub profile README",
+  "scripts": {
+    "marked": "npx marked -i README.md -o index.html",
+    "start": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderdavide/alexanderdavide.git"
+  },
+  "keywords": [
+    "alexanderdavide",
+    "GitHub profile",
+    "GitHub README"
+  ],
+  "author": "alexanderdavide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexanderdavide/alexanderdavide/issues"
+  },
+  "homepage": "https://github.com/alexanderdavide/alexanderdavide#readme",
+  "prettier": "@alexanderdavide/prettier-config",
+  "devDependencies": {
+    "@alexanderdavide/prettier-config": "^1.0.1",
+    "marked": "^4.0.12",
+    "prettier": "^2.5.1",
+    "serve": "^13.0.2"
+  }
+}
