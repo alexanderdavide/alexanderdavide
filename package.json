@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "@alexanderdavide GitHub profile README",
   "scripts": {
-    "marked": "npx marked -i README.md -o index.html",
-    "start": "npx serve"
+    "marked": "marked -i README.md -o index.html",
+    "start": "serve"
   },
   "repository": {
     "type": "git",
