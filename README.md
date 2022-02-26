@@ -1,17 +1,17 @@
-<p align="center"><a href="https://www.alex-eble.de" target="_blank" rel="noreferrer"><img align="center" src="https://static-alex-eble.mo.cloudinary.net/logo.png" /></a>
+<p align="center"><a href="https://www.alex-eble.de" target="_blank" rel="noreferrer"><img align="center" alt="Alexander Eble logo" src="https://static-alex-eble.mo.cloudinary.net/logo.png" /></a>
 </p>
 
 <p align="center"><q>Make it work, make it right, make it fast.</q> - Kent Beck</p>
 
 <p align="center">
   <a href="https://stackoverflow.com/users/9378384/alexanderdavide">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/9378384?label=alexanderdavide&logo=stackoverflow&logoColor=orange&style=for-the-badge&color=blue" />
+    <img alt="alexanderdavide StackOverflow profile" src="https://img.shields.io/stackexchange/stackoverflow/r/9378384?label=alexanderdavide&logo=stackoverflow&logoColor=orange&style=for-the-badge&color=blue" />
   </a>
   <a href="http://github.com/alexanderdavide">
-    <img src="https://img.shields.io/github/followers/alexanderdavide?label=@alexanderdavide&logo=GitHub&style=for-the-badge" />
+    <img alt="alexanderdavide GitHub profile" src="https://img.shields.io/github/followers/alexanderdavide?label=@alexanderdavide&logo=GitHub&style=for-the-badge" />
   </a>
   <a href="http://twitter.com/alexander_eble">
-    <img src="https://img.shields.io/twitter/follow/alexander_eble?label=@alexander_eble&logo=twitter&style=for-the-badge&color=blue" />
+    <img alt="alexanderdavide Twitter profile" src="https://img.shields.io/twitter/follow/alexander_eble?label=@alexander_eble&logo=twitter&style=for-the-badge&color=blue" />
   </a>
 </p>
 
