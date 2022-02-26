@@ -7,11 +7,14 @@
   <a href="https://stackoverflow.com/users/9378384/alexanderdavide">
     <img alt="alexanderdavide StackOverflow profile" src="https://img.shields.io/stackexchange/stackoverflow/r/9378384?label=alexanderdavide&logo=stackoverflow&logoColor=orange&style=for-the-badge&color=blue" />
   </a>
-  <a href="http://github.com/alexanderdavide">
+  <a href="https://github.com/alexanderdavide">
     <img alt="alexanderdavide GitHub profile" src="https://img.shields.io/github/followers/alexanderdavide?label=@alexanderdavide&logo=GitHub&style=for-the-badge" />
   </a>
-  <a href="http://twitter.com/alexander_eble">
-    <img alt="alexanderdavide Twitter profile" src="https://img.shields.io/twitter/follow/alexander_eble?label=@alexander_eble&logo=twitter&style=for-the-badge&color=blue" />
+  <a href="https://twitter.com/alexander_eble">
+    <img alt="alexander_eble Twitter profile" src="https://img.shields.io/twitter/follow/alexander_eble?label=@alexander_eble&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-eble/">
+    <img alt="Alexander Eble LinkedIn profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=gray" />
   </a>
 </p>
 
