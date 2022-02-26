@@ -56,6 +56,6 @@
 
 ## Statistics
 
-<p align="center">
+<p>
   <img alt="alexanderdavide GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=alexanderdavide&theme=react&count_private=true&show_icons=true" />
 </p>
