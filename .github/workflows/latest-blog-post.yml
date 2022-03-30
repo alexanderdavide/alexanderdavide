@@ -18,4 +18,4 @@ jobs:
           commit_message: 'docs: updated latest blog post'
           feed_list: https://blog.alex-eble.de/posts/index.xml
           max_post_count: 1
-          template: ':open_book: Latest blog post: [$title]($url)'
+          template: ':open_book: Latest blog post: [$description]($url)'
