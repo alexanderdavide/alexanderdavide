@@ -24,6 +24,9 @@
 
 :rocket: Apart from software engineering, I am passionate about tech startups, fashion and music.
 
+<!-- LATEST-BLOG-POST:START -->
+<!-- LATEST-BLOG-POST:END -->
+
 ## Projects
 
 - Freelancing as JavaScript Engineer :globe_with_meridians: [www.alex-eble.de](https://www.alex-eble.de)
