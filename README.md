@@ -25,7 +25,7 @@
 :rocket: Apart from software engineering, I am passionate about tech startups, fashion and music.
 
 <!-- LATEST-BLOG-POST:START -->
-:open_book: Latest blog post: [CarHunt](https://blog.alex-eble.de/posts/carhunt/)
+:page_facing_up: Latest blog post: [CarHunt](https://blog.alex-eble.de/posts/carhunt/)
 <!-- LATEST-BLOG-POST:END -->
 
 ## Projects
