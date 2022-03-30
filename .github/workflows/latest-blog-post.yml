@@ -1,0 +1,21 @@
+name: latest blog post
+
+on:
+  schedule:
+    - cron: '* 22 * * *'
+  workflow_dispatch:
+
+jobs:
+  blog-alex-eble:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: blog post workflow
+        uses: gautamkrishnar/blog-post-workflow@1.7.0
+        with:
+          comment_tag_name: LATEST-BLOG-POST
+          commit_message: 'docs: updated latest blog post'
+          feed_list: https://blog.alex-eble.de/posts/index.xml
+          max_post_count: 1
+          template: ':open_book: Latest blog post: [$description]($url)'
