@@ -20,12 +20,10 @@
 
 ## About
 
-:computer: I am Innovation Engineer at [artiso solutions](https://www.artiso.com) and [Freelance JavaScript Engineer](https://www.alex-eble.de).
-
-:rocket: Apart from software engineering, I am passionate about tech startups, fashion and music.
+I code tech products 👨‍💻, build in public 🛠️ and share my startup101 🎓.
 
 <!-- LATEST-BLOG-POST:START -->
-:page_facing_up: Latest blog post: [CarHunt is a software as a service for cross-portal comparison and acquisition of profitable used cars.](https://blog.alex-eble.de/en/posts/carhunt/)
+Latest blog post :page_facing_up:: [CarHunt is a software as a service for cross-portal comparison and acquisition of profitable used cars.](https://blog.alex-eble.de/en/posts/carhunt/)
 <!-- LATEST-BLOG-POST:END -->
 
 ## Projects
