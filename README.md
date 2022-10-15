@@ -30,7 +30,6 @@ Latest blog post :page_facing_up:: [CarHunt is a software as a service for cross
 
 - Freelancing as JavaScript Engineer :globe_with_meridians: [www.alex-eble.de](https://www.alex-eble.de)
 - Maintaining [slidev-theme-academic](https://github.com/alexanderdavide/slidev-theme-academic)
-- Contributing to [anatole](https://github.com/lxndrblz/anatole)
 
 ## Tech Stack
 
