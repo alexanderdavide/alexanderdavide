@@ -22,7 +22,7 @@
 
 - Maintaining :mortar_board: [slidev-theme-academic](https://github.com/alexanderdavide/slidev-theme-academic)
 - Freelancing :globe_with_meridians: [www.alex-eble.de](https://www.alex-eble.de)
-- Latest blog post :page_facing_up:: <!-- LATEST-BLOG-POST:START -->[CarHunt is a software as a service for cross-portal comparison and acquisition of profitable used cars.](https://blog.alex-eble.de/en/posts/carhunt/)<!-- LATEST-BLOG-POST:END -->
+- Latest blog post :page_facing_up:: <!-- LATEST-BLOG-POST:START -->[CarHunt ist ein Software as a Service zum portalübergreifenden Vergleich und Erwerb rentabler Gebrauchtwagen.](https://alex-eble.de/blog/carhunt/)<!-- LATEST-BLOG-POST:END -->
 
 ## Tech Stack
 
