@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.alexeble.de" target="_blank" rel="noreferrer"><img align="center" alt="Alexander Eble logo" src="https://alexeble.mo.cloudinary.net/logo.png" /></a>
+<p align="center"><a href="https://www.alexeble.de" target="_blank" rel="noreferrer"><img align="center" alt="Alexander Eble logo" src="https://alexeble.mo.cloudinary.net/logo.png" width="200" /></a>
 </p>
 
 <p align="center"><q>Make it work, make it right, make it fast.</q> - Kent Beck</p>
