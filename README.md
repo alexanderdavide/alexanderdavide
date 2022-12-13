@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.alex-eble.de" target="_blank" rel="noreferrer"><img align="center" alt="Alexander Eble logo" src="https://static-alex-eble.mo.cloudinary.net/logo.png" /></a>
+<p align="center"><a href="https://www.alexeble.de" target="_blank" rel="noreferrer"><img align="center" alt="Alexander Eble logo" src="https://alexeble.mo.cloudinary.net/logo.png" /></a>
 </p>
 
 <p align="center"><q>Make it work, make it right, make it fast.</q> - Kent Beck</p>
@@ -21,8 +21,8 @@
 ## Projects
 
 - Maintaining :mortar_board: [slidev-theme-academic](https://github.com/alexanderdavide/slidev-theme-academic)
-- Freelancing :globe_with_meridians: [www.alex-eble.de](https://www.alex-eble.de)
-- Latest blog post :page_facing_up:: <!-- LATEST-BLOG-POST:START -->[CarHunt ist ein Software as a Service zum portalübergreifenden Vergleich und Erwerb rentabler Gebrauchtwagen.](https://alex-eble.de/blog/carhunt/)<!-- LATEST-BLOG-POST:END -->
+- Freelancing :globe_with_meridians: [www.alexeble.de](https://www.alexeble.de)
+- Latest blog post :page_facing_up:: <!-- LATEST-BLOG-POST:START -->[CarHunt ist ein Software as a Service zum portalübergreifenden Vergleich und Erwerb rentabler Gebrauchtwagen.](https://alexeble.de/blog/carhunt/)<!-- LATEST-BLOG-POST:END -->
 
 ## Tech Stack
 
