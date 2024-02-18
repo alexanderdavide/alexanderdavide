@@ -19,7 +19,7 @@
 
 - Maintaining :mortar_board: [slidev-theme-academic](https://github.com/alexanderdavide/slidev-theme-academic)
 - Freelancing :globe_with_meridians: [www.alexeble.de](https://www.alexeble.de)
-- Latest blog post :page_facing_up:: <!-- LATEST-BLOG-POST:START -->[CarHunt ist ein Software as a Service zum portalübergreifenden Vergleich und Erwerb rentabler Gebrauchtwagen.](https://alexeble.de/blog/carhunt/)<!-- LATEST-BLOG-POST:END -->
+- Latest blog post :page_facing_up:: [CarHunt ist ein Software as a Service zum portalübergreifenden Vergleich und Erwerb rentabler Gebrauchtwagen.](https://alexeble.de/blog/carhunt/)
 
 ## Tech Stack
 
