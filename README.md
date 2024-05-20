@@ -19,7 +19,7 @@
 
 - Maintaining :mortar_board: [slidev-theme-academic](https://github.com/alexanderdavide/slidev-theme-academic)
 - Freelancing :globe_with_meridians: [www.alexeble.de](https://www.alexeble.de)
-- Latest blog post :page_facing_up:: [Befoode ist ein Software as a Service, der als Social Commerce Plattform lokalen Handel und Konsumenten zusammenbringt.](https://alexeble.de/blog/befoode/)
+- Latest blog post :page_facing_up:: [Slidev Theme Academic ist ein akademisches Theme für Slidev, dem Tool zur Erstellung von Präsentationen für Entwickler.](https://alexeble.de/blog/slidev-theme-academic/)
 
 ## Tech Stack
 
