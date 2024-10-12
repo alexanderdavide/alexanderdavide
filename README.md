@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/alexander-eble/">
     <img alt="Alexander Eble LinkedIn profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=gray" />
   </a>
-  <a href="https://fosstodon.org/@alexanderdavide">
-    <img alt="alexanderdavide Mastodon profile" src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&color=gray" />
-  </a>
 </p>
 
 ## Projects
