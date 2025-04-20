@@ -1,24 +1,25 @@
 <p align="center"><a href="https://www.alexeble.de" target="_blank" rel="noreferrer"><img align="center" alt="Alexander Eble logo" src="https://alexeble.mo.cloudinary.net/logo.png" width="200" /></a>
 </p>
 
-<p align="center"><q>Make it work, make it right, make it fast.</q> - Kent Beck</p>
+<p align="center"><q>True productivity is not just making more stuff, but systematically figuring out the right things to build.</q></p>
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/9378384/alexanderdavide">
-    <img alt="alexanderdavide StackOverflow profile" src="https://img.shields.io/stackexchange/stackoverflow/r/9378384?label=alexanderdavide&logo=stackoverflow&logoColor=orange&style=for-the-badge&color=blue" />
+  <a href="https://www.alexeble.de">
+    <img alt="Alexander Eble Website" src="https://img.shields.io/badge/Web-gray?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/alexander-eble/">
-    <img alt="Alexander Eble LinkedIn profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=gray" />
+    <img alt="Alexander Eble LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge" />
+  </a>
+  <a href="https://stackoverflow.com/users/9378384/alexanderdavide">
+    <img alt="alexanderdavide StackOverflow profile" src="https://img.shields.io/badge/StackOverflow-gray?style=for-the-badge" />
   </a>
 </p>
 
-## Projects
+## Hello, World!
 
-- Maintaining :mortar_board: [slidev-theme-academic](https://github.com/alexanderdavide/slidev-theme-academic)
-- Freelancing :globe_with_meridians: [www.alexeble.de](https://www.alexeble.de)
-- Latest blog post :page_facing_up:: [Slidev Theme Academic ist ein akademisches Theme für Slidev, dem Tool zur Erstellung von Präsentationen für Entwickler.](https://alexeble.de/blog/slidev-theme-academic/)
+My name is Alexander and I'm focused on developing early-stage software products. The JavaScript ecosystem, lean methodologies and user-centered design keep me up and running.
 
-## Tech Stack
+## Stack
 
 <p>
   <p>
@@ -45,10 +46,8 @@
    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </p>
-</p>
-
-## Statistics
-
-<p>
-  <img alt="alexanderdavide GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=alexanderdavide&theme=react&count_private=true&show_icons=true" />
+  <p>
+   <img alt="Lean Startup" src="https://img.shields.io/badge/Lean%20Startup-gray?style=for-the-badge" />
+   <img alt="Basecamp Shape Up" src="https://img.shields.io/badge/Basecamp%20Shape%20Up-gray?style=for-the-badge" />
+  </p>
 </p>
