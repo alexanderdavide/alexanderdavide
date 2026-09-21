@@ -17,7 +17,7 @@
 
 ## Hello, World!
 
-My name is Alexander and I'm focused on developing early-stage software products. The JavaScript ecosystem, lean methodologies and user-centered design keep me up and running.
+My name is Alexander and I build early-stage software products using TypeScript, Node.js and lean management.
 
 ## Stack
 
