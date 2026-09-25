@@ -17,7 +17,7 @@
 
 ## Hello, World!
 
-My name is Alexander and I build early-stage software products using TypeScript, Node.js and lean management.
+My name is Alexander and I'm a product-minded software engineer working with Node.js, TypeScript and lean management.
 
 ## Stack
 
